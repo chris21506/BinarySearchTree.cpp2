@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="BinarySearchTree.cpp" />
     <ClCompile Include="BinarySearchTree.cpp2.cpp" />
+    <ClCompile Include="HashTableChaining.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
